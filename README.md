@@ -3,10 +3,15 @@
 ### Hardware Simulation Project using Proteus - Microcontroller and Microprocessor Laboratory
 ### Date of Completion: Summer 2021 Trimester
 
-## Done by:
-    1. Mohammed Jawwadul Islam, [Linkedin](https://www.linkedin.com/in/jawwadfida/)
-    2. MD Fahad AL Rafi [Linkedin](https://www.linkedin.com/in/fahad-al-rafi-14b968111/)
-    3. Aysha Siddaka, [Facebook](https://www.facebook.com/profile.php?id=100010967227058)
+<hr>
+### Created by: - Mohammed Jawwadul Islam, MD Fahad AL Rafi, Aysha Siddaka  
+
+#### [Linkedin of Jawwad](https://www.linkedin.com/in/jawwadfida/) , [Facebook of Jawwad](https://www.facebook.com/Jawwad.Fida/) 
+#### [Linkedin of Fahad](https://www.linkedin.com/in/fahad-al-rafi-14b968111/) , [Facebook of Fahad](https://www.facebook.com/fahad.a.rafi)
+#### [Facebook of Aysha](https://www.facebook.com/profile.php?id=100010967227058) 
+<hr>
+
+## Project Description
 
 A system that sequentially blinks three LEDS like traffic lights. Proteus Simulation hardware project for Microprocessor and Microcontroller Laboratory
 
